@@ -10,6 +10,7 @@ images:
 - hw/cam_doc/TTLCAN01B_PCB_bottom_big.jpg
 - doc/img/TTLCAN01B_QRcode.png
 mark: 50
+status: 0
 tags:
 - mlab
 - mlab-module
