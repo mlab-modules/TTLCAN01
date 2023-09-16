@@ -4,8 +4,8 @@ github_repo: TTLCAN01
 github_url: https://github.com/mlab-modules/TTLCAN01
 homepage: false
 images:
-- doc/img/TTLCAN01B_top_small.jpg
 - doc/img/TTLCAN01B_top_big.jpg
+- doc/img/TTLCAN01B_top_small.jpg
 - hw/cam_doc/TTLCAN01B_PCB_top_big.jpg
 - hw/cam_doc/TTLCAN01B_PCB_bottom_big.jpg
 - doc/img/TTLCAN01B_QRcode.png
