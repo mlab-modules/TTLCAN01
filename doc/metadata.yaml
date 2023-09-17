@@ -1,4 +1,4 @@
-description: null
+description: The module allow conecting uprocessors to CAN bus
 github_branch: TTLCAN01B
 github_repo: TTLCAN01
 github_url: https://github.com/mlab-modules/TTLCAN01
